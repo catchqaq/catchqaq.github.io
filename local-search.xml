@@ -5,10 +5,10 @@
   
   <entry>
     <title>简单搭建</title>
-    <link href="/2025/10/28/biog%E6%90%AD%E5%BB%BA/"/>
-    <url>/2025/10/28/biog%E6%90%AD%E5%BB%BA/</url>
+    <link href="/2025/10/28/blogcreat/"/>
+    <url>/2025/10/28/blogcreat/</url>
     
-    <content type="html"><![CDATA[<h1 id="利用github搭建一个个人博客"><a href="#利用github搭建一个个人博客" class="headerlink" title="利用github搭建一个个人博客"></a>利用github搭建一个个人博客</h1><h2 id="第一步配置环境"><a href="#第一步配置环境" class="headerlink" title="第一步配置环境"></a>第一步配置环境</h2><p>我们使用的是静态网站，不考虑动态的渲染</p><p>首先我们需要git,官网链接</p><p><a href="https://git-scm.cn/downloads">https://git-scm.cn/downloads</a></p><p>下载完成，我们看一下是否环境配置是否正确</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">git --version<br></code></pre></td></tr></table></figure><p><img src="/./biog%E6%90%AD%E5%BB%BA.assets/image-20251029125007154.png" alt="image-20251029125007154"></p><p>下一步我们需要下载node.js，下载链接：</p><p><a href="https://nodejs.cn/download/">https://nodejs.cn/download/</a></p><p>下载完成在当前的目录以后看看是否下载完成可以执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">node -v<br></code></pre></td></tr></table></figure><p><img src="/./biog%E6%90%AD%E5%BB%BA.assets/image-20251029125625065.png" alt="image-20251029125625065"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="利用github搭建一个个人博客"><a href="#利用github搭建一个个人博客" class="headerlink" title="利用github搭建一个个人博客"></a>利用github搭建一个个人博客</h1><h2 id="第一步配置环境"><a href="#第一步配置环境" class="headerlink" title="第一步配置环境"></a>第一步配置环境</h2><p>我们使用的是静态网站，不考虑动态的渲染</p><p>首先我们需要git,官网链接</p><p><a href="https://git-scm.cn/downloads">https://git-scm.cn/downloads</a></p><p>下载完成，我们看一下是否环境配置是否正确</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">git --version<br></code></pre></td></tr></table></figure><p><img src="/2025/10/28/blogcreat/image-20251029125007154.png" alt="image-20251029125007154"></p><p>下一步我们需要下载node.js，下载链接：</p><p><a href="https://nodejs.cn/download/">https://nodejs.cn/download/</a></p><p>下载完成在当前的目录以后看看是否下载完成可以执行</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">node -v<br></code></pre></td></tr></table></figure><p><img src="/2025/10/28/blogcreat/image-20251029125625065.png" alt="image-20251029125625065"></p>]]></content>
     
     
     
